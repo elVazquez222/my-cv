@@ -37,7 +37,7 @@ Nato-Response-Force 7 | European-Battle-Group 10
 
 ## Skill-Set
 
-#### current focus
+#### current main focus
 
     Javascript  **** 
 
@@ -46,6 +46,10 @@ Nato-Response-Force 7 | European-Battle-Group 10
     SASS / CSS  ***** 
 
     UI/UX       ***
+
+### currently learning
+
+    TypeScript with React
 
 #### on my wish list
 
