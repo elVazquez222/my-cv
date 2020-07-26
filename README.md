@@ -51,7 +51,7 @@ Nato-Response-Force 7 | European-Battle-Group 10
 
     TypeScript with React
 
-  PHP Auffrischung  
+    PHP Auffrischung (PHP refresh)  
 #### on my wish list
 
     python, D3, nosql db
