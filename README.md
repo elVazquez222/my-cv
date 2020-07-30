@@ -8,6 +8,7 @@ I am constantly sharpening my skills and keeping an eye out for new Challenges.
 I like to catch work experience wherever i can, also outside of Germany if the opportunity arises.
 
 At this time my main focus is on Frontend-Development with React JS. 
+I also have some experience in Backend and database development with PHP, MySQLi, phpMyAdmin. 
 
 ## Overview:
 #### From August 2020
